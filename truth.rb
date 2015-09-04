@@ -7,6 +7,6 @@
   if element
     puts "#{element} is true"
   else
-    puts "#{element} is false"
+    puts "#{element.to_s} is false"
   end
 end

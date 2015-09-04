@@ -1,3 +1,10 @@
+#
+# By default all methods inside the class are public
+# You can specify which methods are private using the reserved word 'private'
+# But that's different when you want to define a private Class method
+#
+
+
 class Foo
  
   private
